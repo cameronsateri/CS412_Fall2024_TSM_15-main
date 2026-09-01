@@ -1,0 +1,27 @@
+12 24
+A B 1
+A C 1
+A D 10
+A E 10
+A F 10
+A G 10
+A H 10
+A I 10
+A J 10
+A K 10
+A L 10
+B C 1
+B D 10
+B E 10
+B F 10
+C G 10
+C H 10
+C I 10
+D E 2
+D F 2
+E G 10
+F H 10
+G I 2
+H J 2
+I K 10
+J L 10
